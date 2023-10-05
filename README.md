@@ -49,18 +49,20 @@ I've taken on different roles — data analyst, scientist, and engineer — to c
 
 ## Skills Cultivated
 
-- Mastered Python's data manipulation and visualization libraries, enhanced OOP skills.
-- Honed SQL skills for comprehensive data exploration and analysis.
+- Mastered Python's data manipulation and visualization libraries, enhanced OOP skills writing classes for the ETL tasks code.
+- Enhanced SQL skills (Clickhouse) for comprehensive data exploration and analysis.
+- Mastered BI tools (Superset) to visualize the data in an automated way.
+- Learned ETL pipeline buiding with Airflow and real-time system notification with Telegram bot API.
 - Developed a deep understanding of A/B testing methodologies and statistical analysis.
 - Gained hands-on experience with predictive analytics tools like Google's Causal Impact and Uber's Orbit package.
   
 ## Project Structure
 
 - `notebooks/`: Jupyter notebooks containing code and insights for each project phase.
-- `dashboards/`: Screenshots or exported dashboards illustrating key findings.
-- `scripts/`: Python scripts for automating processes and setting up pipelines.
-- `data/`: Sample or synthesized data employed in analyses.
-- `reports/`: Detailed reports, actionable insights, and results for each analysis phase.
+- `etl-setup/`: Python code for DAG setting up and its final output
+- `automated-reports/`: Code to set up reporting systems and a report example
+- `alert-system-report/`: Code to set up Anomaly detection system and a report example
+- `dashboards/`: Screenshots of the dashboards.
 
 ## Get Started
 
@@ -70,4 +72,4 @@ I've taken on different roles — data analyst, scientist, and engineer — to c
 
 ## Contact
 
-For inquiries or collaboration opportunities, you can reach out to me at dmitrii.shiriaev@outlook.com or at my linkedin page.
+For inquiries or collaboration opportunities, you can reach out to me at dmitrii.shiriaev@outlook.com or at my linkedin page: https://www.linkedin.com/in/dmitrii-shiriaev-713aab154/
