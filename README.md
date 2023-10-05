@@ -4,12 +4,12 @@ Welcome to the Social Network Analytics! This project is a personal exploration 
 Through a series of hands-on steps, I've dived into various analytical techniques and tools to gain insights and drive data-informed decisions.  
 
 ---
-Datasets, access to the tools, and expert guidance have been generously provided by the team at Karpov.Courses (https://karpov.courses/).
+Databases, access to the tools, and expert guidance have been generously provided by the team at Karpov.Courses (https://karpov.courses/).
 
 ## Project Overview
 
 The core objective of this project is to simulate the end-to-end process of setting up analytics for a social network startup.  
-I've taken on different roles — analyst, data engineer, and more — to create a full-fledged analytics ecosystem.
+I've taken on different roles — data analyst, scientist, and engineer — to create a full-fledged analytics ecosystem.
 
 ## Major Steps
 
@@ -19,7 +19,7 @@ I've taken on different roles — analyst, data engineer, and more — to create
   
 ### 2. Crafting Dynamic Dashboards
 
-- Created interactive dashboards using Apache Superset to visualize key product metrics and trends.
+- Created interactive strategic and operational dashboards using Apache Superset to visualize key product metrics and trends.
 
 ### 3. Retention Analysis: Decoding User Behavior
 
@@ -27,8 +27,9 @@ I've taken on different roles — analyst, data engineer, and more — to create
 
 ### 4. A/B Testing: Experimenting with Recommendations
 
-- Formulated hypotheses and designed A/B tests to evaluate the impact of novel recommendation algorithms.
-- Utilized statistical methods like t-tests, Mann-Whitney U tests, bootstrap, and bucket transformations.
+- Formulated hypotheses, split the users into the groups, performed A/A test.
+- Designed A/B tests to evaluate the impact of novel recommendation algorithms on CTR.
+- Employed t-test, Mann-Whitney U test, Poisson bootstrap, and bucket transformations, and analyzed the results.
 
 ### 5. Marketing Insights: Causal Impact Analysis
 
@@ -36,7 +37,7 @@ I've taken on different roles — analyst, data engineer, and more — to create
 
 ### 6. Predicting User Engagement
 
-- Utilized Uber's Orbit Python library to forecast user activity, providing insights for future server capacity planning.
+- Utilized Uber's Orbit Forecast library to estimate user activity, providing insights for future server capacity planning.
 
 ### 7. Automating Insights Delivery
 
@@ -44,12 +45,12 @@ I've taken on different roles — analyst, data engineer, and more — to create
 
 ### 8. Staying Alert to Anomalies
 
-- Implemented a real-time anomaly detection system that triggers alerts upon detecting anomalies.
+- Implemented a real-time anomaly detection system that triggers alerts upon detecting outliers in product metrics.
 
 ## Skills Cultivated
 
-- Mastered Python's data manipulation and visualization libraries.
-- Honed SQL querying skills for comprehensive data exploration and analysis.
+- Mastered Python's data manipulation and visualization libraries, enhanced OOP skills.
+- Honed SQL skills for comprehensive data exploration and analysis.
 - Developed a deep understanding of A/B testing methodologies and statistical analysis.
 - Gained hands-on experience with predictive analytics tools like Google's Causal Impact and Uber's Orbit package.
   
