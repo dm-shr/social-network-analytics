@@ -3,3 +3,4 @@
 *.pyc
 notebooks/.ipynb_checkpoints/
 __pycache__/
+db_manage
