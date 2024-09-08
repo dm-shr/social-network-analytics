@@ -1,6 +1,6 @@
 # Social Network Analytics
 
-Welcome to the Social Network Analytics! This project is a personal exploration of setting up comprehensive analytics for a hypothetical social network startup consisting of two large pieces: feed and messenger.  
+Welcome to the Social Network Analytics! This project is a personal exploration of setting up comprehensive analytics for a social network consisting of two large pieces: feed and messenger.  
 Through a series of hands-on steps, I've dived into various analytical techniques and tools to gain insights and drive data-informed decisions.  
 
 ---
