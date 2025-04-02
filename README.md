@@ -1,10 +1,7 @@
 # Social Network Analytics
 
-Welcome to the Social Network Analytics! This project is a personal exploration of setting up comprehensive analytics for a social network consisting of two large pieces: feed and messenger.  
+This is a personal exploration of setting up comprehensive analytics for a social network consisting of two large pieces: feed and messenger.  
 Through a series of hands-on steps, I've dived into various analytical techniques and tools to gain insights and drive data-informed decisions.  
-
----
-Databases, access to the tools, and expert guidance have been generously provided by the team at Karpov.Courses (https://karpov.courses/).
 
 ## Project Overview
 
